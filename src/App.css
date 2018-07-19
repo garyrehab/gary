@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  padding: 20px;
+}
+
+.AppCoreBg {
+  background-color: lightgray;
+}
+
+.AppCoreColours {
+  color: slategray;
+};
